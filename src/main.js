@@ -1,8 +1,6 @@
-import './css/style.css'
-
 document.addEventListener('DOMContentLoaded', () => {
     document.querySelector('#app').innerHTML = `
-  <h1 style="font-weight: 500">[dev] <span style="font-weight: 800">г</span>uslan.</h1>
+  <h1 style="font-weight: 500">[dev] rusl<span class="pixel-text">a</span>n.</h1>
   <div id="tupa-container">
     <ul class="carousel">
     <li><img class="list-item-img" src="/projects-images/dtit.png" alt="telekom hackathon project"></li>

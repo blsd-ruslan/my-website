@@ -114,3 +114,11 @@ button:focus-visible {
     height: 150px;
     object-fit: cover;
 }
+
+.pixel-text {
+    /*font-family: 'DePixel', sans-serif;*/
+    font-family: 'PF Tempesta Seven', sans-serif;
+    margin-left: .3rem;
+    font-size: .9em;
+    transform: scaleX(-1) rotate(180deg);
+}
